@@ -1,4 +1,4 @@
-# CMPT225
+# CMPT225 AVL Trees
 In this assignment, your task is to create a class called Wordlist that counts how many times each word appears in a file. The class must use an AVL tree as its underlying representation — vectors, arrays, or other container data structures are not allowed. The data in the tree should be sorted by word - using the standard C++ comparison operators. Note that the Wordlist class is an AVL tree — you should not be implementing the Wordlist class and a separate AVL tree class.
 
 When it’s done, you’ll be able to write code like this:
