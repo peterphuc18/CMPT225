@@ -1,4 +1,4 @@
-# CMPT225
+# CMPT225 Analysis
 In this assignment you are to analyze the running times of seven functions. 
 
 Please read the requirements carefully, paying attention to the names and input and output requirements of the class and its methods. We will be testing your class in our test program, so if you do not follow the requirements the test program will not compile, and will not be marked. As usual refer to the General Requirements page.
