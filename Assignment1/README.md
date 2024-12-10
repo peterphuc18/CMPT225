@@ -1,4 +1,4 @@
-# CMPT225
+# CMPT225 PlayList
 
 You are to implement a class that stores a play list - a list of songs - and, in part 2, write a program that uses your class. The class should use a singly linked list as its underlying representation.
 
