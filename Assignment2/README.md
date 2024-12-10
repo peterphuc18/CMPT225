@@ -1,4 +1,4 @@
-# CMPT225
+# CMPT225 Undo
 You are to implement and test an undo feature for the StringList class - which is given to you.
 
 Please read the requirements carefully, paying attention to the names and input and output requirements of the class and its methods. 
