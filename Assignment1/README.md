@@ -1,11 +1,11 @@
 # CMPT225
+
 You are to implement a class that stores a play list - a list of songs - and, in part 2, write a program that uses your class. The class should use a singly linked list as its underlying representation.
 
 The PlayList class is an implementation of the list abstract data type. A list is a data type that preserves the order of its contents (they are not sorted, it is just that the order of its contents is maintained). For example, if you enter the strings milk, butter, eggs into a list in that order then the list will contain milk at its first position, butter in its second and eggs in its third. Lists allow elements to be inserted at any position and removed from any position. 
 
 Please read the requirements carefully, paying particular attention to the names and input and output requirements of the class and its methods. We will be testing your class in our test program, if you do not follow the requirements our test program will not compile and your assignment may not be marked.
 
-Please read the General Requirements before starting your assignment.
 
 Getting Started
 For this assignment we are providing you with four files to show you the intended structure of the program. These files are:
@@ -135,19 +135,10 @@ There are 3 songs in the play list.
 
 Enter 1 (insert), 2 (remove), 3 (swap), 4 (print) or 5 (quit): 5
 You have chosen to quit the program.
+
 Part 3
 At the top of your a1main.cpp file write in comments the O Notation worst-case running time of the methods and main function commands listed below. For full marks you must write a brief explanation (one or two sentences) for each answer.
 
-PlayList Methods
-Default constructor
-Destructor
-Copy constructor
-Overloaded assignment operator
-Insert
-Remove
-Get
-Swap
-Size
 Main Function Commands
 Enter a song
 Remove a song
