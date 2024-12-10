@@ -1,4 +1,4 @@
-# CMPT225
+# CMPT225 Heaps
 You are to implement and test a Heap template class, and an associated function. 
 
 Please read the requirements carefully, paying attention to the names and input and output requirements of the class and its methods. We will be testing your class in our test program, so if you do not follow the requirements the test program will not compile, and will not be marked. As usual refer to the General Requirements page.
